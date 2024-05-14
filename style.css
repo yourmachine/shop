@@ -48,7 +48,7 @@ header p {
 }
 .section1 .price h3 {
     font-size: 40px;
-    color: red;
+      color: rgb(10, 107, 44);
     font-weight: bold;
     text-shadow: 2px 2px 0 white;
 }
